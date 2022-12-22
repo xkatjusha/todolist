@@ -16,4 +16,5 @@ button {
     background-color: #aaaaaa;
     padding: 8px;
     border-radius: 4px;
+    border-color: none;
 }
