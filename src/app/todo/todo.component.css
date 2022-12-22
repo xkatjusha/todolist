@@ -1,0 +1,19 @@
+.todo{
+    display: flex;
+    justify-content: space-between ;
+    padding: 8px;
+    border: 2px;
+    border-color: black;
+    background-color: #888888;
+    align-items: center;
+}
+
+p {
+    cursor: pointer;
+}
+
+button {
+    background-color: #aaaaaa;
+    padding: 8px;
+    border-radius: 4px;
+}
